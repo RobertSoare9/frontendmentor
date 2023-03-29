@@ -11,7 +11,7 @@ body{
     font-family: 'Outfit',sans-serif;
 }
 main{
-    max-width: 16rem;
+    max-width: 300px;
     background-color: hsl(0, 0%, 100%);
     display: flex;
     flex-direction: column;
